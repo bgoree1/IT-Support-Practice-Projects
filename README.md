@@ -8,10 +8,12 @@ This repository contains hands-on IT support and help desk practice projects foc
 
 ## Skills Demonstrated
 
+- Network Troubleshooting
+- Security hardening
+- Root cause Isolation
 - Windows 11 installation and configuration
-- Bootable USB creation
+- Command Line
 - Windows Update management
 - User account creation
-- Security hardening
-- Troubleshooting
+- Bootable USB creation
 - Technical documentation
