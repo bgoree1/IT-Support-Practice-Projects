@@ -49,7 +49,7 @@ Troubleshoot and resolve a home internet access issue on a Windows 11 laptop by 
 
 <img src="screenshots\Phase_1_Confirm_Symptom\Phase1_06.png" width="55%" alt="successfully loaded webpage">
 <img src="screenshots\Phase_1_Confirm_Symptom\Phase1_07.png" width="20%" alt="successfully loaded webpage">
-<img src="screenshots\Phase_1_Confirm_Symptom\Phase1_08.png" width="20%" alt="network connection status">
+<img src="screenshots\Phase_1_Confirm_Symptom\Phase1_08.PNG" width="20%" alt="network connection status">
 
 ## Phase 2: Identify Network State
 
